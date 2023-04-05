@@ -1,0 +1,7 @@
+TODO:
+-at least 2 puzzles (tile moving to make hand?)
+-save load
+-music, sounds, etc (have collision play sounds and change sprites for health)
+-tutorial screen **
+-add items to battles
+-QA

@@ -8,6 +8,7 @@ MainMenu
 MoreMenu
 Tutorial
 Credits
+Options
 Intro
 */
 
@@ -16,7 +17,7 @@ public class MainMenu : MonoBehaviour
     // Start is called before the first frame update
   public void Play()
   {
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 4); //Intro
+    SceneManager.LoadScene(5); //Intro
   }
 
   public void Quit()
@@ -25,6 +26,6 @@ public class MainMenu : MonoBehaviour
   }
     public void More()
     {
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //More
+    SceneManager.LoadScene(1); //More
     }
 }

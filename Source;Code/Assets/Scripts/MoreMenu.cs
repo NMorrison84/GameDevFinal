@@ -8,6 +8,7 @@ MainMenu
 MoreMenu
 Tutorial
 Credits
+Options
 Intro
 */
 
@@ -15,27 +16,21 @@ Intro
 
 public class MoreMenu : MonoBehaviour
 {
-  public static int sceneCount = 0;
     // Start is called before the first frame update
   public void Tutorial()
   {
-    sceneCount = 2;
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //Tutorial
+    SceneManager.LoadScene(2); //Tutorial
   }
-
+ public void Options()
+  {
+    SceneManager.LoadScene(4); //Tutorial
+  }
   public void Back()
   {
-    if(sceneCount == 2){
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
-    }else if(sceneCount == 3){
-      SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 2);
-    }else{
-
-    }
+    SceneManager.LoadScene(0);
   }
     public void Credits()
     {
-      sceneCount = 3;
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 2);
+    SceneManager.LoadScene(3);
     }
 }

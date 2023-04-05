@@ -1,0 +1,8 @@
+Planned bounties
+
+UI and Items, items to be used in combat
+Physics, combat system
+Loading and saving, self explanatory
+Tutorial, self explanatory
+QA
+Narrative, dialogue box, va, branching dialogue

@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Button
+  - Canvas
+  - Option
+  - Option1
   layers:
   - Default
   - TransparentFX

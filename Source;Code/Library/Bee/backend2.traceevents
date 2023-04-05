@@ -1,0 +1,381 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1680721702748402, "dur":211, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680721702748762, "dur":36077, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680721702784850, "dur":9400, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680721702794361, "dur":627, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680721702795070, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1680721702795179, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1680721702795353, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1680721702795498, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1680721702795627, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level10" }}
+,{ "pid":12345, "tid":0, "ts":1680721702795786, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level11.resS" }}
+,{ "pid":12345, "tid":0, "ts":1680721702795845, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level12" }}
+,{ "pid":12345, "tid":0, "ts":1680721702796384, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level3.resS" }}
+,{ "pid":12345, "tid":0, "ts":1680721702796544, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level5" }}
+,{ "pid":12345, "tid":0, "ts":1680721702796697, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level6" }}
+,{ "pid":12345, "tid":0, "ts":1680721702796877, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level8" }}
+,{ "pid":12345, "tid":0, "ts":1680721702796971, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level9" }}
+,{ "pid":12345, "tid":0, "ts":1680721702797053, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level9.resS" }}
+,{ "pid":12345, "tid":0, "ts":1680721702797228, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1680721702797369, "dur":110, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1680721702797498, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1680721702797576, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1680721702797782, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1680721702797845, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":0, "ts":1680721702797941, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":0, "ts":1680721702798009, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":0, "ts":1680721702798185, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":0, "ts":1680721702798356, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":0, "ts":1680721702798493, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":0, "ts":1680721702798603, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":0, "ts":1680721702798691, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1680721702798839, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1680721702799096, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702799308, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702799452, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702799718, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702800017, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702800173, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702800496, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702800577, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702800672, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702800840, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702800949, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702801021, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702801162, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702801346, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702801503, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702801644, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702801775, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702801922, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702802011, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702802148, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702802315, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702802555, "dur":154, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702802831, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702802950, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702803220, "dur":101, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702803429, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702803631, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702803758, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702803830, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702803925, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702804313, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1680721702804473, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1680721702804604, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1680721702804737, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1680721702804915, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1680721702805072, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1680721702805219, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1680721702795047, "dur":10281, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680721702805331, "dur":1609886, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680721704415295, "dur":63, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680721704415491, "dur":3975, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1680721702797491, "dur":7889, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702805386, "dur":3598, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702808985, "dur":2707, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702811693, "dur":11786, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702823480, "dur":283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1680721702823764, "dur":709, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702824616, "dur":241, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1680721702824595, "dur":264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1680721702824861, "dur":471, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702825340, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1680721702825658, "dur":475, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702826174, "dur":401, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702826603, "dur":439, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702827060, "dur":640, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702827732, "dur":456, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\BETA SoJ\\GameDevFinal\\Source;Code\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680721702827721, "dur":486, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680721702828209, "dur":622, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702828846, "dur":332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\BETA SoJ\\GameDevFinal\\Source;Code\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680721702828844, "dur":335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680721702832036, "dur":11111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1680721702843301, "dur":11196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets5.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1680721702859243, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702854821, "dur":4553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets12.assets" }}
+,{ "pid":12345, "tid":1, "ts":1680721702859690, "dur":22701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":1, "ts":1680721702882686, "dur":7419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level8.resS" }}
+,{ "pid":12345, "tid":1, "ts":1680721702890556, "dur":4262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level5.resS" }}
+,{ "pid":12345, "tid":1, "ts":1680721702898149, "dur":166, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702895069, "dur":3312, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level3" }}
+,{ "pid":12345, "tid":1, "ts":1680721702899160, "dur":96, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702899313, "dur":7368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level13" }}
+,{ "pid":12345, "tid":1, "ts":1680721702907410, "dur":190, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1680721702907612, "dur":3844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":1, "ts":1680721702911574, "dur":1503567, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680721702797395, "dur":7951, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680721702805351, "dur":18104, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680721702829036, "dur":2133, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1680721702831176, "dur":165, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1680721702831369, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1680721702831497, "dur":130, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1680721702832022, "dur":197, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playere356412f-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1680721702831174, "dur":1292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1680721702833160, "dur":85, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1680721702834809, "dur":1567569, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1680721704412931, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1680721704412930, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1680721704413107, "dur":1712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1680721702797458, "dur":7900, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702807186, "dur":1309, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Api.Attributes.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680721702805374, "dur":4735, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702810110, "dur":13358, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702823546, "dur":291, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1680721702823476, "dur":363, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1680721702823841, "dur":547, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702824403, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1680721702824619, "dur":344, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702824978, "dur":200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1680721702824973, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1680721702825182, "dur":325, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702825526, "dur":196, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680721702825520, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680721702825726, "dur":333, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702826089, "dur":459, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702826571, "dur":598, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702827188, "dur":331, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702827553, "dur":591, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702828162, "dur":2245, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\BETA SoJ\\GameDevFinal\\Source;Code\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680721702828158, "dur":2252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680721702830412, "dur":640, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702831085, "dur":1141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702832250, "dur":598, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702832873, "dur":454, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702833353, "dur":1385, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702834739, "dur":336, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1680721702835088, "dur":442, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702835552, "dur":299, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702835874, "dur":291, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702836275, "dur":12362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets8.assets" }}
+,{ "pid":12345, "tid":3, "ts":1680721702848956, "dur":6861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets4.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1680721702864273, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702856184, "dur":8228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets11.assets" }}
+,{ "pid":12345, "tid":3, "ts":1680721702864791, "dur":12680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1680721702877760, "dur":8245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level9.resS" }}
+,{ "pid":12345, "tid":3, "ts":1680721702886265, "dur":200, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702886478, "dur":4956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level7" }}
+,{ "pid":12345, "tid":3, "ts":1680721702891678, "dur":4232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level4.resS" }}
+,{ "pid":12345, "tid":3, "ts":1680721702896118, "dur":4278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level13.resS" }}
+,{ "pid":12345, "tid":3, "ts":1680721702906020, "dur":767, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1680721702900677, "dur":6135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level11" }}
+,{ "pid":12345, "tid":3, "ts":1680721702906967, "dur":6978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1680721702914080, "dur":1500867, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702797548, "dur":7843, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702806203, "dur":964, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680721702808364, "dur":678, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\BETA SoJ\\GameDevFinal\\Source;Code\\Library\\PackageCache\\com.unity.visualscripting@1.8.0\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680721702809043, "dur":681, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\BETA SoJ\\GameDevFinal\\Source;Code\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680721702805395, "dur":4776, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702810171, "dur":13288, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702823500, "dur":332, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702823876, "dur":772, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702824664, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1680721702824941, "dur":307, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702825261, "dur":183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1680721702825445, "dur":441, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702825902, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1680721702826092, "dur":361, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702826467, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680721702826524, "dur":388, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702826951, "dur":796, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702827760, "dur":1037, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\BETA SoJ\\GameDevFinal\\Source;Code\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680721702827757, "dur":1042, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680721702828801, "dur":418, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702829251, "dur":481, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702829758, "dur":232, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702830012, "dur":688, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702830722, "dur":1430, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702832187, "dur":253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702832457, "dur":206, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702832684, "dur":347, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702833050, "dur":771, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702833839, "dur":502, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702834363, "dur":425, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702834808, "dur":261, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702835086, "dur":246, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702835345, "dur":325, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702835694, "dur":358, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702836075, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680721702836069, "dur":176, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1680721702836246, "dur":607, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1680721702836916, "dur":12017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":4, "ts":1680721702849119, "dur":2975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":4, "ts":1680721702852304, "dur":8652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":4, "ts":1680721702861201, "dur":33918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1680721702895361, "dur":4213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level2.resS" }}
+,{ "pid":12345, "tid":4, "ts":1680721702899951, "dur":5218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level12.resS" }}
+,{ "pid":12345, "tid":4, "ts":1680721702905299, "dur":2843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level10" }}
+,{ "pid":12345, "tid":4, "ts":1680721702908359, "dur":4684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1680721702913211, "dur":1501861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702797610, "dur":7792, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702805409, "dur":3854, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702809264, "dur":14227, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702823493, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1680721702823794, "dur":603, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702824430, "dur":182, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1680721702824408, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1680721702824615, "dur":1186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702825811, "dur":156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":5, "ts":1680721702825809, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ.exe" }}
+,{ "pid":12345, "tid":5, "ts":1680721702825970, "dur":123, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702826113, "dur":505, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702826647, "dur":492, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702827159, "dur":1385, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702828581, "dur":509, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\BETA SoJ\\GameDevFinal\\Source;Code\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680721702828577, "dur":522, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680721702829101, "dur":280, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702829404, "dur":445, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702829944, "dur":445, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702830406, "dur":474, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702830924, "dur":1244, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702832193, "dur":422, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702832657, "dur":660, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702833334, "dur":1115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702834464, "dur":466, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702834946, "dur":596, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702835563, "dur":735, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702836299, "dur":68, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1680721702836504, "dur":11726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680721702848492, "dur":3985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680721702852651, "dur":5396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets13.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680721702858313, "dur":6647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680721702865167, "dur":5730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1680721702871250, "dur":11437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1680721702882899, "dur":6440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level8" }}
+,{ "pid":12345, "tid":5, "ts":1680721702889666, "dur":5009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level6" }}
+,{ "pid":12345, "tid":5, "ts":1680721702894975, "dur":204, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702899656, "dur":90, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702895200, "dur":4572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level3.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680721702900170, "dur":5590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level11.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680721702905885, "dur":688, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1680721702906586, "dur":4033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level1.resS" }}
+,{ "pid":12345, "tid":5, "ts":1680721702910789, "dur":1504379, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702797711, "dur":7708, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702805423, "dur":785, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680721702805423, "dur":4267, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702809691, "dur":13784, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702823478, "dur":344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1680721702823824, "dur":356, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702824223, "dur":345, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1680721702824191, "dur":379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1680721702824572, "dur":401, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702824980, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1680721702825241, "dur":1027, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702826297, "dur":710, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702827027, "dur":544, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702827598, "dur":257, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702827870, "dur":483, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\BETA SoJ\\GameDevFinal\\Source;Code\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680721702827867, "dur":489, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1680721702828357, "dur":547, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702828932, "dur":278, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702829239, "dur":324, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702829599, "dur":462, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702830100, "dur":503, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702830630, "dur":452, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702831105, "dur":1087, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702832207, "dur":436, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702832660, "dur":323, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702833009, "dur":796, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702833829, "dur":663, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702834512, "dur":471, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702835005, "dur":297, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702835321, "dur":324, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702835664, "dur":425, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702836280, "dur":14473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets8.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1680721702851171, "dur":18195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1680721702869581, "dur":13498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1680721702883317, "dur":7219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level7.resS" }}
+,{ "pid":12345, "tid":6, "ts":1680721702890939, "dur":4440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level5" }}
+,{ "pid":12345, "tid":6, "ts":1680721702895565, "dur":4118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level2" }}
+,{ "pid":12345, "tid":6, "ts":1680721702899956, "dur":5980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level12" }}
+,{ "pid":12345, "tid":6, "ts":1680721702906251, "dur":336, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1680721702906600, "dur":3994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level0.resS" }}
+,{ "pid":12345, "tid":6, "ts":1680721702910732, "dur":1504471, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702797822, "dur":7611, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702805437, "dur":566, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680721702805437, "dur":3064, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702808745, "dur":744, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\sharedassets4.assets" }}
+,{ "pid":12345, "tid":7, "ts":1680721702808502, "dur":3333, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702811835, "dur":11637, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702823535, "dur":290, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1680721702823477, "dur":350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1680721702823829, "dur":364, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702824210, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1680721702824389, "dur":700, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702825109, "dur":225, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1680721702825104, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1680721702825338, "dur":362, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702825718, "dur":315, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680721702825713, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680721702826037, "dur":926, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702826996, "dur":323, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702827339, "dur":274, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702827643, "dur":244, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702827898, "dur":596, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\BETA SoJ\\GameDevFinal\\Source;Code\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680721702827895, "dur":601, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680721702828497, "dur":443, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702828967, "dur":426, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702829418, "dur":439, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702829876, "dur":529, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702830425, "dur":301, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702830743, "dur":315, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702831087, "dur":1424, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702832530, "dur":491, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702833036, "dur":1100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702834166, "dur":555, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702834722, "dur":89, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1680721702834825, "dur":342, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702835188, "dur":498, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702835707, "dur":352, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702836150, "dur":12697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets9.assets" }}
+,{ "pid":12345, "tid":7, "ts":1680721702857275, "dur":115, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702849120, "dur":8361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":7, "ts":1680721702857963, "dur":194, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702858177, "dur":10524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets10.assets" }}
+,{ "pid":12345, "tid":7, "ts":1680721702868955, "dur":407, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702869596, "dur":7857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1680721702877715, "dur":8321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level9" }}
+,{ "pid":12345, "tid":7, "ts":1680721702892120, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702886317, "dur":5920, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level6.resS" }}
+,{ "pid":12345, "tid":7, "ts":1680721702892891, "dur":7517, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level4" }}
+,{ "pid":12345, "tid":7, "ts":1680721702900683, "dur":5216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level10.resS" }}
+,{ "pid":12345, "tid":7, "ts":1680721702906068, "dur":532, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1680721702906617, "dur":4900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1680721702911668, "dur":1503421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702797879, "dur":7595, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702805475, "dur":3768, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702809244, "dur":1558, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702810803, "dur":12679, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702823557, "dur":276, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\2022.2.9f1\\2022.2.9f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1680721702823490, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1680721702823838, "dur":563, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702824411, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1680721702824599, "dur":334, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702824955, "dur":501, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1680721702825457, "dur":444, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702825923, "dur":582, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702826532, "dur":630, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702827187, "dur":377, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702827591, "dur":295, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702827895, "dur":804, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Owner\\Desktop\\everything\\programs\\unity\\BETA SoJ\\GameDevFinal\\Source;Code\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680721702827892, "dur":809, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680721702828702, "dur":246, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702828970, "dur":542, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702829531, "dur":484, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702830035, "dur":558, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702830618, "dur":459, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702831117, "dur":1202, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702832338, "dur":558, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702832915, "dur":348, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702833278, "dur":717, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702833996, "dur":88, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680721702834099, "dur":496, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702834596, "dur":199, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1680721702834807, "dur":971, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702835795, "dur":664, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702905958, "dur":456, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1680721702836668, "dur":69817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1680721702906781, "dur":4996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Owner/Desktop/everything/programs/unity/BETA SoJ/GameDevFinal/Build;Executable/BETA SoJ_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1680721702911897, "dur":1503191, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1680721704424653, "dur":2421, "ph":"X", "name": "ProfilerWriteOutput" }
+,

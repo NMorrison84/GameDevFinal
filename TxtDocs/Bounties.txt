@@ -1,8 +1,9 @@
 Planned bounties
 
-UI and Items, items to be used in combat
+UI and Items
+Puzzles
 Physics, combat system
 Loading and saving, self explanatory
 Tutorial, self explanatory
 QA
-Narrative, dialogue box, va, branching dialogue
+Narrative, dialogue box, va

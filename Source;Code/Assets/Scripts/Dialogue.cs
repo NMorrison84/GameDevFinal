@@ -5,10 +5,11 @@ using TMPro;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+
 public class Dialogue : MonoBehaviour
 {
     public TextMeshProUGUI textComp;
-
+    static public int[] IsSceneLocked;
     
     public string[] DialogueLines;
      public string[] ChoiceLines;
@@ -22,7 +23,14 @@ public class Dialogue : MonoBehaviour
     {
       textComp.text = string.Empty;
         StartDialogue();
+    //SetLock();
     }
+/*void SetLock(){
+    for(int i = 0; i < IsSceneLocked.Length; i++){
+            IsSceneLocked[i] = 0;
+        }
+        IsSceneLocked[16] = 1;
+}*/
 
     // Update is called once per frame
     void Update()
@@ -62,16 +70,19 @@ public class Dialogue : MonoBehaviour
         textComp.text = string.Empty;
         StartCoroutine(TypeLine());
     }else{
-    gameObject.SetActive(false);
-    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-    /*ShowButton();
-  Button choiceButton = Instantiate(buttonPrefab) as Button;
-        Text choiceText = buttonPrefab.GetComponentInChildren<Text>();
-            choiceText.text = ChoiceLines[choiceIndex];
-            choiceButton.transform.SetParent(this.transform, false);
-            Debug.Log(choiceText);
-    }*/
-}
+
+            if(((SceneManager.GetActiveScene().buildIndex) + 1) != 17){
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); //if next not locked and not game over
+            }
+                gameObject.SetActive(false);
+            /*ShowButton();
+          Button choiceButton = Instantiate(buttonPrefab) as Button;
+                Text choiceText = buttonPrefab.GetComponentInChildren<Text>();
+                    choiceText.text = ChoiceLines[choiceIndex];
+                    choiceButton.transform.SetParent(this.transform, false);
+                    Debug.Log(choiceText);
+            }*/
+        }
     }
 }
     /*void ShowButton(){

@@ -15,9 +15,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Menus/Tutorial.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Menus/Credits.unity
-    guid: 6e9581037219b884e8a2631ff15dfdba
-  - enabled: 1
     path: Assets/Scenes/Menus/Options.unity
     guid: 558c6dfce45751a4f830e3cdba116ec9
   - enabled: 1
@@ -47,7 +44,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DialogueScnes/EndDialogue.unity
     guid: cfdce2e7b06ac1c419cf3ded9499dd9b
+  - enabled: 1
+    path: Assets/Scenes/Battles/TilePuzzle.unity
+    guid: 757f1a3ea82bdc14facb1ed4251bf6c4
+  - enabled: 1
+    path: Assets/Scenes/Battles/TileComplete.unity
+    guid: 2426f2a441aa2244b89536d116967aa2
+  - enabled: 1
+    path: Assets/Scenes/DialogueScnes/EndDialogue 1.unity
+    guid: c79b6149bed74a94383b2fa6cce6efad
+  - enabled: 1
+    path: Assets/Scenes/Menus/Credits.unity
+    guid: 6e9581037219b884e8a2631ff15dfdba
   - enabled: 0
     path: Assets/Scenes/Battles/OllieBattle.unity
     guid: 0f3c545dca7856b4ba00c1e8f4d1d131
+  - enabled: 1
+    path: Assets/Scenes/Menus/GameOver.unity
+    guid: 0c14845a5fb1e4842bb9277087d02158
   m_configObjects: {}

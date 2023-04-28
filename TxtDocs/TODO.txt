@@ -1,6 +1,2 @@
 TODO:
--Tile puzzle plus item
--Siren battle
--save load
--music, sounds, etc (have collision play sounds and change sprites for health)
 -QA

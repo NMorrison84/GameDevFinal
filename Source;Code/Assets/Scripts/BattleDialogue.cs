@@ -100,6 +100,10 @@ if(ChoiceLines2[index].Length >= 10){
     {
        // IEnumerator Collision(){
         correct = true;
+        //Vector3 bottomofscreen = new Vector3(-10f, -20f, 0f);
+        //Vector3 bottomofscreen1 = new Vector3(14f, -20f, 0f);
+         //if nothing hit then take away health
+       // if ()
         
         //Check for a match with the specified name on any GameObject that collides with your GameObject
         if (other.gameObject.CompareTag("Option1")){
@@ -112,6 +116,7 @@ if(ChoiceLines2[index].Length >= 10){
             //Destroy(gameObject);
             if(ChoiceText1.text == ChoiceLines1[index]){
                 NextLine();
+                audioCorrect.Play();
             }else{
                 Debug.Log("Text not working");
                 StopAllCoroutines();
@@ -135,6 +140,7 @@ if(ChoiceLines2[index].Length >= 10){
             RandomizeChoices();
             choice1.SetActive(true);
             choice2.SetActive(true);
+            audioWrong.Play();
             
             //Destroy(gameObject);
         } else{
@@ -155,8 +161,10 @@ if(ChoiceLines2[index].Length >= 10){
             }
 
             if (health <= 0){
+                SceneManager.LoadScene(14);
                 Debug.Log("GAME OVER");
                 Debug.Log(health);
+                 //Gameover screen
                 HealthBox.text = "Health: " + health;
             }
         //}

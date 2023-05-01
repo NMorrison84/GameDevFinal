@@ -330,7 +330,7 @@ MonoBehaviour:
   - Meet Carmen
   - Ahimsa
   - Train Volleyball
-  textSpeed: 0.03
+  textSpeed: 0.005
   position1: {x: 0, y: 0, z: 0}
   position2: {x: 0, y: 0, z: 0}
   positionPicker: 0

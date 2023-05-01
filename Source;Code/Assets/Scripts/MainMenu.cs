@@ -28,4 +28,8 @@ public class MainMenu : MonoBehaviour
     {
     SceneManager.LoadScene(1); //More
     }
+    public void Skip()
+    {
+    SceneManager.LoadScene(0); //Goes to main menu
+    }
 }

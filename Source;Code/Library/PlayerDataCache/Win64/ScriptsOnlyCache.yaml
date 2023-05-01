@@ -266,6 +266,12 @@ ScriptsOnlyBuild:
     fullTypeName: PauseMenu
     methodName: Quit
   - assembly: Assembly-CSharp
+    fullTypeName: MainMenu
+    methodName: Skip
+  - assembly: Assembly-CSharp
+    fullTypeName: MainMenu
+    methodName: Quit
+  - assembly: Assembly-CSharp
     fullTypeName: PauseMenu
     methodName: Load
   - assembly: Assembly-CSharp
@@ -334,9 +340,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7466}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -415,9 +421,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7466}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -494,9 +500,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6986}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -567,9 +573,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7710}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -636,9 +642,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6986}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -703,9 +709,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6986}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -772,9 +778,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6986}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -841,9 +847,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6986}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -910,9 +916,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6986}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -979,9 +985,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6986}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1163,6 +1169,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 6102}
     - Class: 114
       Script: {instanceID: 6986}
+    - Class: 114
+      Script: {instanceID: 7594}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1531,9 +1539,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7466}
     - Class: 114
-      Script: {instanceID: 25614}
+      Script: {instanceID: 24778}
     - Class: 114
-      Script: {instanceID: 25616}
+      Script: {instanceID: 24780}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128

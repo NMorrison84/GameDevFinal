@@ -23,7 +23,7 @@ public class MoreMenu : MonoBehaviour
   }
  public void Options()
   {
-    SceneManager.LoadScene(4); //Tutorial
+    SceneManager.LoadScene(3); //Tutorial
   }
   public void Back()
   {

@@ -465,7 +465,7 @@ MonoBehaviour:
   - Naima
   - Your hair changes with your mood.
   - Does that mean you trust Ollie?
-  textSpeed: 0.02
+  textSpeed: 0.005
   position1: {x: 0, y: 0, z: 0}
   position2: {x: 0, y: 0, z: 0}
   positionPicker: 0
